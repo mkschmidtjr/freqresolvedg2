@@ -16,7 +16,7 @@ from qutip import *
 # In[ ]:
 
 
-
+# asd asd 
 
 # # spectrum $S_\Gamma$
 # \begin{equation}
